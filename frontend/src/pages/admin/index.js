@@ -1,0 +1,19 @@
+// Export all admin pages
+export { default as Dashboard } from './Dashboard';
+export { default as Products } from './Products';
+export { default as CreateProduct } from './CreateProduct';
+export { default as EditProduct } from './EditProduct';
+export { default as Categories } from './Categories';
+export { default as CreateCategory } from './CreateCategory';
+export { default as EditCategory } from './EditCategory';
+export { default as Orders } from './Orders';
+export { default as OrderDetail } from './OrderDetail';
+export { default as Users } from './Users';
+export { default as CreateUser } from './CreateUser';
+export { default as EditUser } from './EditUser';
+export { default as Coupons } from './Coupons';
+export { default as CreateCoupon } from './CreateCoupon';
+export { default as EditCoupon } from './EditCoupon';
+export { default as Reviews } from './Reviews';
+export { default as Contacts } from './Contacts';
+export { default as Settings } from './Settings';
